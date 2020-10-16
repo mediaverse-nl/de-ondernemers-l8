@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="aa2db0e2-7e70-4491-a8f7-0d17c1548e3c" name="de ondernemers" url="http://amlinvestments.nl">
+        <fileTransfer rootFolder="/domains/web-assembled.nl" accessType="FTPS" host="amlinvestments.nl" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

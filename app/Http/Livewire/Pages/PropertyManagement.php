@@ -4,11 +4,11 @@ namespace App\Http\Livewire\Pages;
 
 use Livewire\Component;
 
-class Contact extends Component
+class PropertyManagement extends Component
 {
     public function render()
     {
-        return view('livewire.pages.contact')
+        return view('livewire.pages.property-management')
             ->layout('layouts.site');
     }
 }

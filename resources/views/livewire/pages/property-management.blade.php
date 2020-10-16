@@ -8,7 +8,7 @@
             </div>
         </div>
         <div class="col-9 pr-5">
-            @livewire('components.content-editor', ['key' => 'about_page'])
+            @livewire('components.content-editor', ['key' => 'property_management'])
         </div>
     </div>
 </div>

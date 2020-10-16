@@ -1,3 +1,14 @@
-<div>
-    {{-- Close your eyes. Count to one. That is how long forever feels. --}}
+<div class="container py-5">
+    <div class="row">
+        <div class="col-3">
+            <div class="card elegant-color-dark text-white">
+                <div class="card-body">
+                    @livewire('components.content-editor', ['key' => 'contact_info_para'])
+                </div>
+            </div>
+        </div>
+        <div class="col-9 pr-5">
+            @livewire('components.content-editor', ['key' => 'service_page'])
+        </div>
+    </div>
 </div>
