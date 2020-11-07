@@ -181,7 +181,7 @@
     </head>
     <body class="elegant-color d-flex flex-column">
         <!--Navbar-->
-        <nav class="navbar navbar-expand-sm navbar-dark elegant-color-dark z-depth-4">
+        <nav class="navbar navbar-expand-sm navbar-dark elegant-color-dark z-depth-4" style="flex: none !important;">
             <div class="container">
 
                 <!-- Navbar brand -->
@@ -231,17 +231,17 @@
                     </ul>
                 </div>
 
-
-                <div style="position: fixed; top: 160px; right: 10px; z-index: 9999">
-                    <ol class="">
-                        <a style="margin-right: 10px;" class="" href="{{ url('locale/en') }}" >
-                            <img src="/files/images/united-kingdom.svg" style="height: 40px;" alt="en">
-                        </a>
-                        <a style="margin-right: 10px;" class="" href="{{ url('locale/nl') }}" >
-                            <img src="/files/images/netherlands.svg" style="height: 40px;" alt="nl">
-                        </a>
-                    </ol>
-                </div>
+{{--//todo change all langues--}}
+{{--                <div style="position: fixed; top: 160px; right: 10px; z-index: 9999">--}}
+{{--                    <ol class="">--}}
+{{--                        <a style="margin-right: 10px;" class="" href="{{ url('locale/en') }}" >--}}
+{{--                            <img src="/files/images/united-kingdom.svg" style="height: 40px;" alt="en">--}}
+{{--                        </a>--}}
+{{--                        <a style="margin-right: 10px;" class="" href="{{ url('locale/nl') }}" >--}}
+{{--                            <img src="/files/images/netherlands.svg" style="height: 40px;" alt="nl">--}}
+{{--                        </a>--}}
+{{--                    </ol>--}}
+{{--                </div>--}}
 
                 <!-- Collapsible content -->
             </div>
@@ -273,11 +273,15 @@
             <div class="footer-copyright py-3">
                 <div class="container">
                     <div class="row">
-                        <div class="col-6">
+                        <div class="col-4">
                             Made By <a href="www.web-assembled.nl">web-assembled.nl</a>
 
                         </div>
-                        <div class="col-6 text-right">
+                        <div class="col-4">
+                            <span class="text-muted text-center">Garonnelaan 39
+                            5627 VW Eindhoven</span>
+                        </div>
+                        <div class="col-4 text-right">
                             © {{date('Y')}} Copyright:
                             <a href="https://mdbootstrap.com/"> de-ondernemers.com</a>
                         </div>
