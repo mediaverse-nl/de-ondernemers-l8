@@ -16,6 +16,10 @@ use Illuminate\Support\Facades\Route;
 Route::get('locale/{locale}','App\Http\Controllers\LocalizationController')->name('locale');
 
 Route::middleware(['locale'])->group(function () {
+    Route::get('test', function (){
+        return 'test';
+    });
+
     Route::get('/', \App\Http\Livewire\Pages\Home::class)->name('site.home');
     Route::get('/over-ons', \App\Http\Livewire\Pages\About::class)->name('site.about');
     Route::get('/services', \App\Http\Livewire\Pages\Services::class)->name('site.services');
