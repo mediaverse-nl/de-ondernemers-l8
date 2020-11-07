@@ -229,7 +229,7 @@
       <workItem from="1602258430411" duration="305000" />
       <workItem from="1602258744284" duration="5000" />
       <workItem from="1602504945518" duration="9430000" />
-      <workItem from="1604759508959" duration="3879000" />
+      <workItem from="1604759508959" duration="4025000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1601286423766</created>
@@ -252,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604763935819</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="layout tweaks">
+      <created>1604768493633</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604768493633</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,10 +289,10 @@
     </state>
     <state x="2394" y="186" key="#Deployment/0.0.5760.1040@0.0.5760.1040" timestamp="1601895215737" />
     <state x="2394" y="193" key="#Deployment/0.0.5760.1080@0.0.5760.1080" timestamp="1602869721943" />
-    <state x="2503" y="129" key="CommitChangelistDialog2" timestamp="1604763935198">
+    <state x="2503" y="129" key="CommitChangelistDialog2" timestamp="1604768493273">
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
-    <state x="2503" y="129" key="CommitChangelistDialog2/0.0.5760.1080@0.0.5760.1080" timestamp="1604763935198" />
+    <state x="2503" y="129" key="CommitChangelistDialog2/0.0.5760.1080@0.0.5760.1080" timestamp="1604768493273" />
     <state x="2582" y="289" key="FileChooserDialogImpl" timestamp="1601893901194">
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
