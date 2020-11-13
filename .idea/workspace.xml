@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b89eec1d-131b-4e65-b45d-93b4c31e3ff7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/errors/403.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Exceptions/Handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Exceptions/Handler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/lang/nl/general.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/nl/general.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -175,7 +178,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PhpstormProjects/clock-app" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -229,7 +232,7 @@
       <workItem from="1602258430411" duration="305000" />
       <workItem from="1602258744284" duration="5000" />
       <workItem from="1602504945518" duration="9430000" />
-      <workItem from="1604759508959" duration="4025000" />
+      <workItem from="1604759508959" duration="13893000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1601286423766</created>
@@ -259,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604768493633</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="web test">
+      <created>1604768640441</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604768640441</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,7 +291,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="layout tweaks" />
-    <option name="LAST_COMMIT_MESSAGE" value="layout tweaks" />
+    <MESSAGE value="web test" />
+    <option name="LAST_COMMIT_MESSAGE" value="web test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2394" y="193" key="#Deployment" timestamp="1602869721943">
@@ -289,14 +300,14 @@
     </state>
     <state x="2394" y="186" key="#Deployment/0.0.5760.1040@0.0.5760.1040" timestamp="1601895215737" />
     <state x="2394" y="193" key="#Deployment/0.0.5760.1080@0.0.5760.1080" timestamp="1602869721943" />
-    <state x="2503" y="129" key="CommitChangelistDialog2" timestamp="1604768493273">
+    <state x="2503" y="129" key="CommitChangelistDialog2" timestamp="1604768640098">
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
-    <state x="2503" y="129" key="CommitChangelistDialog2/0.0.5760.1080@0.0.5760.1080" timestamp="1604768493273" />
-    <state x="2582" y="289" key="FileChooserDialogImpl" timestamp="1601893901194">
+    <state x="2503" y="129" key="CommitChangelistDialog2/0.0.5760.1080@0.0.5760.1080" timestamp="1604768640098" />
+    <state x="2582" y="289" key="FileChooserDialogImpl" timestamp="1605032330121">
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
-    <state x="2582" y="289" key="FileChooserDialogImpl/0.0.5760.1080@0.0.5760.1080" timestamp="1601893901194" />
+    <state x="2582" y="289" key="FileChooserDialogImpl/0.0.5760.1080@0.0.5760.1080" timestamp="1605032330121" />
     <state x="955" y="434" key="Github.ShareDialog" timestamp="1601284467183">
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
@@ -309,10 +320,10 @@
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
     <state x="2303" y="180" key="SettingsEditor/0.0.5760.1080@0.0.5760.1080" timestamp="1601669001324" />
-    <state x="693" y="269" key="Vcs.Push.Dialog.v2" timestamp="1604763937676">
+    <state x="693" y="269" key="Vcs.Push.Dialog.v2" timestamp="1604768642681">
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
-    <state x="693" y="269" key="Vcs.Push.Dialog.v2/0.0.5760.1080@0.0.5760.1080" timestamp="1604763937676" />
+    <state x="693" y="269" key="Vcs.Push.Dialog.v2/0.0.5760.1080@0.0.5760.1080" timestamp="1604768642681" />
     <state x="2658" y="434" key="WebDeployment.AddServerDialog.v.1" timestamp="1601893368860">
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
@@ -330,12 +341,12 @@
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
     <state x="2458" y="250" key="run.anything.popup/0.0.5760.1080@0.0.5760.1080" timestamp="1601863612876" />
-    <state x="764" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1604766953975">
+    <state x="764" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1605282527210">
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
     <state x="255" y="246" width="672" height="653" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602504983529" />
     <state x="764" y="246" width="672" height="653" key="search.everywhere.popup/0.0.5760.1040@0.0.5760.1040" timestamp="1601941825730" />
-    <state x="764" y="255" width="672" height="678" key="search.everywhere.popup/0.0.5760.1080@0.0.5760.1080" timestamp="1604766953975" />
+    <state x="764" y="255" width="672" height="678" key="search.everywhere.popup/0.0.5760.1080@0.0.5760.1080" timestamp="1605282527210" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

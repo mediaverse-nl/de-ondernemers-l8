@@ -3,6 +3,7 @@
 namespace App\Exceptions;
 
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
+use Throwable;
 
 class Handler extends ExceptionHandler
 {
@@ -32,6 +33,16 @@ class Handler extends ExceptionHandler
      */
     public function register()
     {
-        //
+
     }
+
+    public function render($request, Throwable $e){
+//        Route::middleware('web')
+//            ->namespace('App\Http\Controllers')
+//            ->group(base_path('routes/web.php'));
+
+//        dd( route('login'));
+
+    }
+
 }

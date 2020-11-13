@@ -17,15 +17,17 @@ Route::get('locale/{locale}','App\Http\Controllers\LocalizationController')->nam
 
 Route::middleware(['locale'])->group(function () {
     Route::get('test', function (){
-        return 'test';
+        abort(403, 'Unauthorized action.');
     });
+
+
 
     Route::get('/', \App\Http\Livewire\Pages\Home::class)->name('site.home');
     Route::get('/over-ons', \App\Http\Livewire\Pages\About::class)->name('site.about');
     Route::get('/services', \App\Http\Livewire\Pages\Services::class)->name('site.services');
     Route::get('/contact', \App\Http\Livewire\Pages\Contact::class)->name('site.contact');
     Route::get('/calamiteiten', \App\Http\Livewire\Pages\Calamities::class)->name('site.calamities');
-    Route::get('/vastgoedbeheer', \App\Http\Livewire\Pages\PropertyManagement::class)->name('site.property-management');
+    Route::get('/technisch-beheer', \App\Http\Livewire\Pages\PropertyManagement::class)->name('site.property-management');
 });
 
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
