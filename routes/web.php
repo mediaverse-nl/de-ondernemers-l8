@@ -16,9 +16,9 @@ use Illuminate\Support\Facades\Route;
 Route::get('locale/{locale}','App\Http\Controllers\LocalizationController')->name('locale');
 
 Route::middleware(['locale'])->group(function () {
-    Route::get('test', function (){
-        abort(403, 'Unauthorized action.');
-    });
+//    Route::get('test', function (){
+//        abort(403, 'Unauthorized action.');
+//    });
 
 
 
