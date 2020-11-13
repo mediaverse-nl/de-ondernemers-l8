@@ -36,7 +36,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -305,10 +305,14 @@
     </state>
     <state x="2394" y="186" key="#Deployment/0.0.5760.1040@0.0.5760.1040" timestamp="1601895215737" />
     <state x="2394" y="193" key="#Deployment/0.0.5760.1080@0.0.5760.1080" timestamp="1602869721943" />
-    <state x="2503" y="129" key="CommitChangelistDialog2" timestamp="1605283637558">
+    <state x="2474" y="193" key="#Notifications" timestamp="1605283706013">
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
-    <state x="2503" y="129" key="CommitChangelistDialog2/0.0.5760.1080@0.0.5760.1080" timestamp="1605283637558" />
+    <state x="2474" y="193" key="#Notifications/0.0.5760.1080@0.0.5760.1080" timestamp="1605283706013" />
+    <state x="2503" y="129" key="CommitChangelistDialog2" timestamp="1605283645814">
+      <screen x="0" y="0" width="5760" height="1080" />
+    </state>
+    <state x="2503" y="129" key="CommitChangelistDialog2/0.0.5760.1080@0.0.5760.1080" timestamp="1605283645814" />
     <state x="2582" y="289" key="FileChooserDialogImpl" timestamp="1605032330121">
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
@@ -325,18 +329,18 @@
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
     <state x="2303" y="180" key="SettingsEditor/0.0.5760.1080@0.0.5760.1080" timestamp="1601669001324" />
-    <state x="2133" y="357" key="Vcs.Push.Dialog.v2" timestamp="1605283608625">
+    <state x="2133" y="357" key="Vcs.Push.Dialog.v2" timestamp="1605283654686">
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
-    <state x="2133" y="357" key="Vcs.Push.Dialog.v2/0.0.5760.1080@0.0.5760.1080" timestamp="1605283608625" />
+    <state x="2133" y="357" key="Vcs.Push.Dialog.v2/0.0.5760.1080@0.0.5760.1080" timestamp="1605283654686" />
     <state x="2658" y="434" key="WebDeployment.AddServerDialog.v.1" timestamp="1601893368860">
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
     <state x="2658" y="434" key="WebDeployment.AddServerDialog.v.1/0.0.5760.1080@0.0.5760.1080" timestamp="1601893368860" />
-    <state x="918" y="450" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605283628765">
+    <state x="918" y="450" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605283724766">
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
-    <state x="918" y="450" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.5760.1080@0.0.5760.1080" timestamp="1605283628765" />
+    <state x="918" y="450" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.5760.1080@0.0.5760.1080" timestamp="1605283724766" />
     <state x="2618" y="255" key="ftp.server.browser" timestamp="1601895210020">
       <screen x="0" y="0" width="5760" height="1040" />
     </state>
