@@ -15,16 +15,18 @@
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap">
 
         <style>
+
+            .elegant-color{
+                background: #2e2e2eeb  !important;
+            }
             html,
             body {
                 height: 100%;
                 overflow-x: hidden;
+                min-width: 970px;
             }
             html {
                  min-height: 100%;
-            }
-            body {
-                min-width: 970px;
             }
             #page-content {
                 flex: 1 0 auto;
@@ -232,16 +234,16 @@
                 </div>
 
 {{--//todo change all langues--}}
-{{--                <div style="position: fixed; top: 160px; right: 10px; z-index: 9999">--}}
-{{--                    <ol class="">--}}
-{{--                        <a style="margin-right: 10px;" class="" href="{{ url('locale/en') }}" >--}}
-{{--                            <img src="/files/images/united-kingdom.svg" style="height: 40px;" alt="en">--}}
-{{--                        </a>--}}
-{{--                        <a style="margin-right: 10px;" class="" href="{{ url('locale/nl') }}" >--}}
-{{--                            <img src="/files/images/netherlands.svg" style="height: 40px;" alt="nl">--}}
-{{--                        </a>--}}
-{{--                    </ol>--}}
-{{--                </div>--}}
+                <div style="position: fixed; top: 160px; right: 10px; z-index: 9999">
+                    <ol class="">
+                        <a style="margin-right: 10px;" class="" href="{{ url('locale/en') }}" >
+                            <img src="/files/images/united-kingdom.svg" style="height: 40px;" alt="en">
+                        </a>
+                        <a style="margin-right: 10px;" class="" href="{{ url('locale/nl') }}" >
+                            <img src="/files/images/netherlands.svg" style="height: 40px;" alt="nl">
+                        </a>
+                    </ol>
+                </div>
 
                 <!-- Collapsible content -->
             </div>

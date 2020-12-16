@@ -20,7 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b89eec1d-131b-4e65-b45d-93b4c31e3ff7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/files/images/grid-background.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/lang/en/general.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/en/general.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/lang/nl/general.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/nl/general.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/site.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/site.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/livewire/components/contact-form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/components/contact-form.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/livewire/components/fluid-container.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/components/fluid-container.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,18 +194,19 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dever\Projects\de-ondernemers-l8\public\files\images" />
+      <recent name="C:\Users\Dever\Projects\de-ondernemers-l8\public\files" />
+      <recent name="C:\Users\Dever\Projects\de-ondernemers-l8\resources\lang\nl" />
+      <recent name="C:\Users\Dever\Projects\de-ondernemers-l8\resources\lang\en" />
+      <recent name="C:\Users\Dever\Projects\de-ondernemers-l8\resources\lang\asd" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Dever\Projects\de-ondernemers-l8\resources\lang\en" />
       <recent name="C:\Users\Dever\Projects\de-ondernemers-l8\resources\lang\nl" />
       <recent name="C:\Users\Dever\Projects\de-ondernemers-l8\resources\lang" />
       <recent name="C:\Users\Dever\Projects\de-ondernemers-l8\resources\views\layouts" />
       <recent name="C:\Users\Dever\Projects\de-ondernemers-l8\resources\views\pages" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Dever\Projects\de-ondernemers-l8\public\files\images" />
-      <recent name="C:\Users\Dever\Projects\de-ondernemers-l8\resources\lang\nl" />
-      <recent name="C:\Users\Dever\Projects\de-ondernemers-l8\resources\lang\en" />
-      <recent name="C:\Users\Dever\Projects\de-ondernemers-l8\resources\lang\asd" />
     </key>
   </component>
   <component name="RunManager">
@@ -235,7 +243,8 @@
       <workItem from="1602258430411" duration="305000" />
       <workItem from="1602258744284" duration="5000" />
       <workItem from="1602504945518" duration="9430000" />
-      <workItem from="1604759508959" duration="14853000" />
+      <workItem from="1604759508959" duration="16067000" />
+      <workItem from="1608132505183" duration="2364000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1601286423766</created>
@@ -300,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605283749696</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="web test">
+      <created>1605283928614</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605283928614</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -336,10 +352,10 @@
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
     <state x="2474" y="193" key="#Notifications/0.0.5760.1080@0.0.5760.1080" timestamp="1605283706013" />
-    <state x="2503" y="129" key="CommitChangelistDialog2" timestamp="1605283749387">
+    <state x="2849" y="139" key="CommitChangelistDialog2" timestamp="1605283928290">
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
-    <state x="2503" y="129" key="CommitChangelistDialog2/0.0.5760.1080@0.0.5760.1080" timestamp="1605283749387" />
+    <state x="2849" y="139" key="CommitChangelistDialog2/0.0.5760.1080@0.0.5760.1080" timestamp="1605283928290" />
     <state x="2582" y="289" key="FileChooserDialogImpl" timestamp="1605032330121">
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
@@ -356,10 +372,10 @@
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
     <state x="2303" y="180" key="SettingsEditor/0.0.5760.1080@0.0.5760.1080" timestamp="1601669001324" />
-    <state x="2088" y="343" key="Vcs.Push.Dialog.v2" timestamp="1605283771591">
+    <state x="2088" y="343" key="Vcs.Push.Dialog.v2" timestamp="1605283934667">
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
-    <state x="2088" y="343" key="Vcs.Push.Dialog.v2/0.0.5760.1080@0.0.5760.1080" timestamp="1605283771591" />
+    <state x="2088" y="343" key="Vcs.Push.Dialog.v2/0.0.5760.1080@0.0.5760.1080" timestamp="1605283934667" />
     <state x="2658" y="434" key="WebDeployment.AddServerDialog.v.1" timestamp="1601893368860">
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
@@ -368,6 +384,10 @@
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
     <state x="918" y="450" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.5760.1080@0.0.5760.1080" timestamp="1605283724766" />
+    <state x="257" y="184" width="1406" height="701" key="dock-window-1" timestamp="1608133712818">
+      <screen x="0" y="0" width="5760" height="1080" />
+    </state>
+    <state x="257" y="184" width="1406" height="701" key="dock-window-1/0.0.5760.1080@0.0.5760.1080" timestamp="1608133712818" />
     <state x="2618" y="255" key="ftp.server.browser" timestamp="1601895210020">
       <screen x="0" y="0" width="5760" height="1040" />
     </state>
@@ -377,12 +397,12 @@
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
     <state x="2458" y="250" key="run.anything.popup/0.0.5760.1080@0.0.5760.1080" timestamp="1601863612876" />
-    <state x="764" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1605282527210">
+    <state x="764" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1608133637241">
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
     <state x="255" y="246" width="672" height="653" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602504983529" />
     <state x="764" y="246" width="672" height="653" key="search.everywhere.popup/0.0.5760.1040@0.0.5760.1040" timestamp="1601941825730" />
-    <state x="764" y="255" width="672" height="678" key="search.everywhere.popup/0.0.5760.1080@0.0.5760.1080" timestamp="1605282527210" />
+    <state x="764" y="255" width="672" height="678" key="search.everywhere.popup/0.0.5760.1080@0.0.5760.1080" timestamp="1608133637241" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
