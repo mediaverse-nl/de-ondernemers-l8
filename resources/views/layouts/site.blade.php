@@ -8,7 +8,7 @@
 
         <meta name="csrf-token" content="{{ csrf_token() }}">
 
-        <title>De ondernemers - Wij ondernemen alles wat u nodig heeft.</title>
+        <title>De ondernemers - vastgoedservice - 24/7 calamiteitendienst</title>
 
         <!-- Fonts -->
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css">
