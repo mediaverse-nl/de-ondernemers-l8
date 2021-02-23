@@ -19,15 +19,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b89eec1d-131b-4e65-b45d-93b4c31e3ff7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/files/images/grid-background.jpg" afterDir="false" />
+    <list default="true" id="b89eec1d-131b-4e65-b45d-93b4c31e3ff7" name="Default Changelist" comment="small update">
+      <change afterPath="$PROJECT_DIR$/.idea/composerJson.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Exceptions/asda.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Livewire/Login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/livewire/login.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/de-ondernemers-l8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/de-ondernemers-l8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/lang/en/general.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/en/general.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/lang/nl/general.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/nl/general.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/site.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/site.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/livewire/components/contact-form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/components/contact-form.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/livewire/components/fluid-container.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/components/fluid-container.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +121,6 @@
       <path value="$PROJECT_DIR$/vendor/symfony/process" />
       <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
       <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
       <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
       <path value="$PROJECT_DIR$/vendor/symfony/console" />
@@ -157,10 +160,8 @@
       <path value="$PROJECT_DIR$/vendor/livewire/livewire" />
       <path value="$PROJECT_DIR$/vendor/jaybizzle/crawler-detect" />
       <path value="$PROJECT_DIR$/vendor/filp/whoops" />
-      <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
       <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
       <path value="$PROJECT_DIR$/vendor/paragonie/constant_time_encoding" />
-      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
       <path value="$PROJECT_DIR$/vendor/psr/container" />
       <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
       <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
@@ -171,6 +172,7 @@
       <path value="$PROJECT_DIR$/vendor/bacon/bacon-qr-code" />
       <path value="$PROJECT_DIR$/vendor/opis/closure" />
       <path value="$PROJECT_DIR$/vendor/watson/active" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
     </include_path>
   </component>
   <component name="ProjectId" id="1i6fBBzRAVEGpPsfXptbJDvr8Zx" />
@@ -244,7 +246,13 @@
       <workItem from="1602258744284" duration="5000" />
       <workItem from="1602504945518" duration="9430000" />
       <workItem from="1604759508959" duration="16067000" />
-      <workItem from="1608132505183" duration="2364000" />
+      <workItem from="1608132505183" duration="5810000" />
+      <workItem from="1609707277085" duration="610000" />
+      <workItem from="1611427638072" duration="2362000" />
+      <workItem from="1612142275500" duration="650000" />
+      <workItem from="1612143286363" duration="6000" />
+      <workItem from="1612143302843" duration="9000" />
+      <workItem from="1614091543856" duration="2720000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1601286423766</created>
@@ -316,7 +324,28 @@
       <option name="project" value="LOCAL" />
       <updated>1605283928614</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="small update">
+      <created>1608136505118</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1608136505119</updated>
+    </task>
+    <task id="LOCAL-00012" summary="small update">
+      <created>1611428481091</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1611428481091</updated>
+    </task>
+    <task id="LOCAL-00013" summary="small update">
+      <created>1611428833804</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1611428833804</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,72 +366,38 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="first commit" />
     <MESSAGE value="layout tweaks" />
     <MESSAGE value="web test" />
-    <option name="LAST_COMMIT_MESSAGE" value="web test" />
+    <MESSAGE value="small update" />
+    <option name="LAST_COMMIT_MESSAGE" value="small update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2394" y="193" key="#Deployment" timestamp="1602869721943">
+    <state x="2613" y="283" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1614094808595">
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
-    <state x="2394" y="186" key="#Deployment/0.0.5760.1040@0.0.5760.1040" timestamp="1601895215737" />
-    <state x="2394" y="193" key="#Deployment/0.0.5760.1080@0.0.5760.1080" timestamp="1602869721943" />
-    <state x="2474" y="193" key="#Notifications" timestamp="1605283706013">
+    <state x="2613" y="283" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.5760.1080@0.0.5760.1080" timestamp="1614094808595" />
+    <state x="2849" y="139" key="CommitChangelistDialog2" timestamp="1611428833445">
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
-    <state x="2474" y="193" key="#Notifications/0.0.5760.1080@0.0.5760.1080" timestamp="1605283706013" />
-    <state x="2849" y="139" key="CommitChangelistDialog2" timestamp="1605283928290">
+    <state x="2849" y="139" key="CommitChangelistDialog2/0.0.5760.1080@0.0.5760.1080" timestamp="1611428833445" />
+    <state x="2088" y="343" key="Vcs.Push.Dialog.v2" timestamp="1611428837955">
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
-    <state x="2849" y="139" key="CommitChangelistDialog2/0.0.5760.1080@0.0.5760.1080" timestamp="1605283928290" />
-    <state x="2582" y="289" key="FileChooserDialogImpl" timestamp="1605032330121">
+    <state x="2088" y="343" key="Vcs.Push.Dialog.v2/0.0.5760.1080@0.0.5760.1080" timestamp="1611428837955" />
+    <state x="656" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1612142299162">
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
-    <state x="2582" y="289" key="FileChooserDialogImpl/0.0.5760.1080@0.0.5760.1080" timestamp="1605032330121" />
-    <state x="955" y="434" key="Github.ShareDialog" timestamp="1601284467183">
+    <state x="656" y="359" key="com.intellij.ide.util.TipDialog/0.0.5760.1080@0.0.5760.1080" timestamp="1612142299162" />
+    <state x="257" y="184" width="1406" height="701" key="dock-window-1" timestamp="1609707298943">
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
-    <state x="955" y="434" key="Github.ShareDialog/0.0.5760.1080@0.0.5760.1080" timestamp="1601284467183" />
-    <state x="844" y="234" key="Github.UntrackedFilesDialog" timestamp="1601285537477">
+    <state x="257" y="184" width="1406" height="701" key="dock-window-1/0.0.5760.1080@0.0.5760.1080" timestamp="1609707298943" />
+    <state x="764" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1614095660999">
       <screen x="0" y="0" width="5760" height="1080" />
     </state>
-    <state x="844" y="234" key="Github.UntrackedFilesDialog/0.0.5760.1080@0.0.5760.1080" timestamp="1601285537477" />
-    <state x="2303" y="180" key="SettingsEditor" timestamp="1601669001324">
-      <screen x="0" y="0" width="5760" height="1080" />
-    </state>
-    <state x="2303" y="180" key="SettingsEditor/0.0.5760.1080@0.0.5760.1080" timestamp="1601669001324" />
-    <state x="2088" y="343" key="Vcs.Push.Dialog.v2" timestamp="1605283934667">
-      <screen x="0" y="0" width="5760" height="1080" />
-    </state>
-    <state x="2088" y="343" key="Vcs.Push.Dialog.v2/0.0.5760.1080@0.0.5760.1080" timestamp="1605283934667" />
-    <state x="2658" y="434" key="WebDeployment.AddServerDialog.v.1" timestamp="1601893368860">
-      <screen x="0" y="0" width="5760" height="1080" />
-    </state>
-    <state x="2658" y="434" key="WebDeployment.AddServerDialog.v.1/0.0.5760.1080@0.0.5760.1080" timestamp="1601893368860" />
-    <state x="918" y="450" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605283724766">
-      <screen x="0" y="0" width="5760" height="1080" />
-    </state>
-    <state x="918" y="450" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.5760.1080@0.0.5760.1080" timestamp="1605283724766" />
-    <state x="257" y="184" width="1406" height="701" key="dock-window-1" timestamp="1608133712818">
-      <screen x="0" y="0" width="5760" height="1080" />
-    </state>
-    <state x="257" y="184" width="1406" height="701" key="dock-window-1/0.0.5760.1080@0.0.5760.1080" timestamp="1608133712818" />
-    <state x="2618" y="255" key="ftp.server.browser" timestamp="1601895210020">
-      <screen x="0" y="0" width="5760" height="1040" />
-    </state>
-    <state x="2618" y="255" key="ftp.server.browser/0.0.5760.1040@0.0.5760.1040" timestamp="1601895210020" />
-    <state x="2618" y="265" key="ftp.server.browser/0.0.5760.1080@0.0.5760.1080" timestamp="1601893492764" />
-    <state x="2458" y="250" key="run.anything.popup" timestamp="1601863612876">
-      <screen x="0" y="0" width="5760" height="1080" />
-    </state>
-    <state x="2458" y="250" key="run.anything.popup/0.0.5760.1080@0.0.5760.1080" timestamp="1601863612876" />
-    <state x="764" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1608133637241">
-      <screen x="0" y="0" width="5760" height="1080" />
-    </state>
-    <state x="255" y="246" width="672" height="653" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602504983529" />
-    <state x="764" y="246" width="672" height="653" key="search.everywhere.popup/0.0.5760.1040@0.0.5760.1040" timestamp="1601941825730" />
-    <state x="764" y="255" width="672" height="678" key="search.everywhere.popup/0.0.5760.1080@0.0.5760.1080" timestamp="1608133637241" />
+    <state x="764" y="255" width="672" height="678" key="search.everywhere.popup/0.0.5760.1080@0.0.5760.1080" timestamp="1614095660999" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
